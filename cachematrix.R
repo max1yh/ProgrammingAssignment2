@@ -3,6 +3,7 @@
 
 ## Write a short comment describing this function
 ## create the inverse of matrix function based on mean example from Coursera course
+## doing minimal changes only
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
